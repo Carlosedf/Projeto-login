@@ -17,7 +17,7 @@ body{
     background-color: var(--Cinza);
     width: 100vw;
     height: 100vh;
-    background-image: url(imagens/templo.jpeg);
+    background-image: url(templo.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -71,7 +71,7 @@ section#login p{
 
 div#imagem{
     display: block;
-    background: black url(imagens/templo.jpeg);
+    background: black url(templo.jpeg);
     height: 200px;
     background-position: center center;
     background-size: cover;
